@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on: [Computer Programming Final Project](https://github.com/ManuelCrzUR/Proyectos_Programacion-de-Computadores)
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **C++**
 
-- 👯 I’m looking to collaborate on **Any Python Project**
+- 👯 I’m looking to collaborate on **Any Python/C++ Project**
 
 - 🤝 I’m looking for help with **@everyone**
 
-- 💬 Ask me about **Html5, Css, Python**
+- 💬 Ask me about **Html5, Css, Python, C++**
 
 - 📫 How to reach me **manuels.cruz@urosario.edu.co**
 
